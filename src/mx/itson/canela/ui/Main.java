@@ -32,7 +32,7 @@ public class Main {
         receta.setIngredientes(ingredientes);
         
         //agregar pasos
-        
+        //Aun no lo hago XD
         receta.setDificultad(Dificultad.INTERMEDIO);
     }
 }
